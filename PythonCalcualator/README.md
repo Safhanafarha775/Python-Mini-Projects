@@ -1,5 +1,7 @@
 🧮 Simple Python Calculator
 
+NOTE : Earlier Versions of these projects exist in my archived projects. 
+
 📌 Project Overview
 
 This is a command-line based calculator built using Python. It allows users to perform basic arithmetic operations such as:
