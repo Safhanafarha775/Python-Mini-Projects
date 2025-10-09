@@ -1,4 +1,4 @@
-***🧮 Word Counter (Python Project)
+***🧮 Word Counter (Python Project)***
 📖 Project Overview
 
 The Word Counter is a simple Python program that takes a text input (typed or from a file) and analyzes it to display:
