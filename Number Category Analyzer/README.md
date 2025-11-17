@@ -1,4 +1,4 @@
-###📘 Number Category Analyzer
+###📘 Number Category Analyzer###
 
 A beginner-friendly Python mini project that analyzes any number and provides its characteristics such as odd/even, positive/negative, divisibility, range check, and a special bonus category.
 
@@ -6,21 +6,16 @@ A beginner-friendly Python mini project that analyzes any number and provides it
 
 This project takes any number as input and displays useful information about it:
 
-✔️ Features
+#✔️ Features#
 
 Detects Odd / Even
-
 Identifies if the number is Positive, Negative, or Zero
-
 Checks Divisibility by 5 and 10
-
 Verifies if the number is between 1 and 100
-
 Bonus: Prints “Special Number” if divisible by 6 or 9
-
 Perfect for beginners learning conditions, modulus, comparisons, and logical operators in Python.
 
-#🧠 How It Works
+#🧠 How It Works#
 
 The user enters any number.
 The program processes the number and checks multiple conditions:
