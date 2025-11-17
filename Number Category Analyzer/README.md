@@ -2,11 +2,11 @@
 
 A beginner-friendly Python mini project that analyzes any number and provides its characteristics such as odd/even, positive/negative, divisibility, range check, and a special bonus category.
 
-🚀 Project Overview
+## 🚀 Project Overview
 
 This project takes any number as input and displays useful information about it:
 
-#✔️ Features#
+## ✔️ Features
 
 Detects Odd / Even
 Identifies if the number is Positive, Negative, or Zero
@@ -15,7 +15,7 @@ Verifies if the number is between 1 and 100
 Bonus: Prints “Special Number” if divisible by 6 or 9
 Perfect for beginners learning conditions, modulus, comparisons, and logical operators in Python.
 
-#🧠 How It Works#
+## 🧠 How It Works
 
 The user enters any number.
 The program processes the number and checks multiple conditions:
@@ -26,7 +26,7 @@ Range → 1 to 100
 Bonus → Special Number (divisible by 6 or 9)
 Results are printed clearly with labels.
 
-#🧩 Sample Output
+## 🧩 Sample Output
 Enter any number: 45
 
 --- Number Category Analyzer Result ---
@@ -38,14 +38,14 @@ Enter any number: 45
 ➡️ The number is between 1 and 100.
 ✨ Special Number!
 
-#🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3.x
 Basic Input/Output
 Conditional Statements
 Modulus Operator
 
-#🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 By completing this project, learners will understand:
 How to use if, elif, else
