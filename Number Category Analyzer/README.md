@@ -1,4 +1,4 @@
-###📘 Number Category Analyzer###
+# 📘 Number Category Analyzer
 
 A beginner-friendly Python mini project that analyzes any number and provides its characteristics such as odd/even, positive/negative, divisibility, range check, and a special bonus category.
 
